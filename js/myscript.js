@@ -19,7 +19,7 @@ const passwordCreate = `
 <p>Cognome: ${lastname}</p>
 <p>Colore preferito: ${colorFavorite}</p>
 <p>Numero: ${number21} </p>
-<p>Passwor Creata: <b>${passwordGenerate}</b></p>
+<p>Password Creata: <b>${passwordGenerate}</b></p>
 `;
 
 // PRINT PASSWORD GENERATE IN HTML WITH ID
