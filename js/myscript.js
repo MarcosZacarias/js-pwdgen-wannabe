@@ -15,10 +15,10 @@ const passwordGenerate = firstname + lastname + colorFavorite + number21;
 
 // PASSWORD CREATE
 const passwordCreate = `
-<p>Nome: ${firstname},</p> 
-<p>Cognome: ${lastname},</p>
-<p>Colore preferito: ${colorFavorite},</p>
-<p>Numero: ${number21}, </p>
+<p>Nome: ${firstname}</p> 
+<p>Cognome: ${lastname}</p>
+<p>Colore preferito: ${colorFavorite}</p>
+<p>Numero: ${number21} </p>
 <p>Passwor Creata: <b>${passwordGenerate}</b></p>
 `;
 
